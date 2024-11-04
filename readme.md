@@ -6,4 +6,4 @@
     <li>JS</li>
 </ul>
 
-[Clique para visualizar no navegador]("https://alanpedrod.github.io/simulador-carrinho-de-compras/")
+[Clique para visualizar no navegador](https://alanpedrod.github.io/simulador-carrinho-de-compras/)
