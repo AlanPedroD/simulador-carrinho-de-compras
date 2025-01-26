@@ -10,6 +10,7 @@ body {
 
 #carrinho {
   display: flex;
+  justify-content: center;
 }
 
 .item-carrinho {
@@ -48,4 +49,16 @@ input::-webkit-inner-spin-button {
 
 #subtotal {
   font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
 }
